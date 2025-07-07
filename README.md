@@ -21,9 +21,9 @@ The goal of this task was to perform reconnaissance on a local network to identi
 
 ## 🔍 My Network Info
 
-- **Local IP:** `192.168.64.128`
+- **Local IP:** `192.168.64.xxx`
 - **Network Range:** `192.168.64.0/24`
-- **Target IP Selected:** `192.168.64.1`
+- **Target IP Selected:** `192.168.xx.xx`
 
 ---
 
